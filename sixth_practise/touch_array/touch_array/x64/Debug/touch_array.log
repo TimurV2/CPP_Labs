@@ -1,0 +1,4 @@
+﻿  touch_array.cpp
+C:\Users\1\source\repos\sixth_practise\touch_array\touch_array\touch_array.cpp(48,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\1\source\repos\sixth_practise\touch_array\touch_array\touch_array.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  touch_array.vcxproj -> C:\Users\1\source\repos\sixth_practise\touch_array\x64\Debug\touch_array.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IsUltraPrime", "IsUltraPrime\IsUltraPrime.vcxproj", "{A3534748-D663-4371-80DB-54C229E3BBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Debug|x64.ActiveCfg = Debug|x64
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Debug|x64.Build.0 = Debug|x64
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Debug|x86.Build.0 = Debug|Win32
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Release|x64.ActiveCfg = Release|x64
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Release|x64.Build.0 = Release|x64
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Release|x86.ActiveCfg = Release|Win32
+		{A3534748-D663-4371-80DB-54C229E3BBCC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E4441BC-0388-4EF6-8D67-B96084A773C9}
+	EndGlobalSection
+EndGlobal

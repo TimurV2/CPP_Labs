@@ -1,0 +1,6 @@
+﻿  find_x12_structure.cpp
+C:\Users\1\source\repos\seventh_practise\find_x12_structure\find_x12_structure\find_x12_structure.cpp(19,3): warning C4551: function call missing argument list
+C:\Users\1\source\repos\seventh_practise\find_x12_structure\find_x12_structure\find_x12_structure.cpp(15,12): warning C4101: 'y': unreferenced local variable
+C:\Users\1\source\repos\seventh_practise\find_x12_structure\find_x12_structure\find_x12_structure.cpp(15,9): warning C4101: 'x': unreferenced local variable
+C:\Users\1\source\repos\seventh_practise\find_x12_structure\find_x12_structure\find_x12_structure.cpp(35): warning C4715: 'MyRoot': not all control paths return a value
+  find_x12_structure.vcxproj -> C:\Users\1\source\repos\seventh_practise\find_x12_structure\x64\Debug\find_x12_structure.exe

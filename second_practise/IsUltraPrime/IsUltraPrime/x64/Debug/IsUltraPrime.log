@@ -1,0 +1,4 @@
+﻿  IsUltraPrime.cpp
+C:\Users\1\source\repos\second_practise\IsUltraPrime\IsUltraPrime\IsUltraPrime.cpp(6,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\1\source\repos\second_practise\IsUltraPrime\IsUltraPrime\IsUltraPrime.cpp(32,9): warning C4101: 'sqr_x': unreferenced local variable
+  IsUltraPrime.vcxproj -> C:\Users\1\source\repos\second_practise\IsUltraPrime\x64\Debug\IsUltraPrime.exe

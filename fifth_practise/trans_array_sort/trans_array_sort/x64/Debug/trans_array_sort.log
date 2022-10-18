@@ -1,0 +1,4 @@
+﻿  trans_array_sort.cpp
+C:\Users\1\source\repos\fifth_practise\trans_array_sort\trans_array_sort\trans_array_sort.cpp(35,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\1\source\repos\fifth_practise\trans_array_sort\trans_array_sort\trans_array_sort.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  trans_array_sort.vcxproj -> C:\Users\1\source\repos\fifth_practise\trans_array_sort\x64\Debug\trans_array_sort.exe

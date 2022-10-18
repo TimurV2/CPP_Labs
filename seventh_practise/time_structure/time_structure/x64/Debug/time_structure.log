@@ -1,0 +1,3 @@
+﻿  time_structure.cpp
+C:\Users\1\source\repos\seventh_practise\time_structure\time_structure\time_structure.cpp(52,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  time_structure.vcxproj -> C:\Users\1\source\repos\seventh_practise\time_structure\x64\Debug\time_structure.exe
